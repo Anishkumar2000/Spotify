@@ -1,0 +1,104 @@
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc3UILYIzRb6Fs2Xtx-wuws_No-_qqvsOnyGIwEtj99Q&s" alt="img1"  class="img-1"> 
+                  <img src="https://m.media-amazon.com/images/M/MV5BMmZlNDMwMGMtODQ2Ny00NWI3LTg2NjgtNTFmYjA3Y2IzOTlkXkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_.jpg" alt="img2" class="img-2">
+                  <img src="https://m.media-amazon.com/images/M/MV5BMDdiYjQ1YzQtN2JkNi00YWI2LWJmZTMtYzZhMjk1YjEwYjgxXkEyXkFqcGdeQXVyMTI5MzI5MTc4._V1_.jpg" alt="img3" class="img-3">
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzChVGP8M3uaal3pbaohMwHkl_J2i8k5AX3mJqxv6DLQ&s" alt="img4" class="img-4">
+                  <img src="https://in.bmscdn.com/iedb/artist/images/website/poster/large/ajith-kumar-88-1671166500.jpg" alt="img5" class="img-5"> 
+
+.img-1{
+   height: 200px;
+   width: 180px;
+   margin: 20px;
+}
+.img-2{
+   height: 200px;
+   width: 180px;
+   margin: 20px;
+}
+.img-3{
+   height: 200px;
+   width: 180px;
+   margin: 20px;
+}
+.img-4{
+   height: 200px;
+   width: 180px;
+   margin: 20px;
+}
+.img-5{
+   height: 200px;
+   width: 180px;
+   margin: 20px;
+}
+
+/* .box-a {
+   height: 150px;
+   width: 200px;
+   background-color: gold;
+}
+
+
+.box-b {
+   height: 150px;
+   width: 200px;
+   background-color: gold;
+}
+
+.box-c {
+   height: 150px;
+   width: 200px;
+   background-color: gold;
+}
+
+.box-d {
+   height: 150px;
+   width: 200px;
+   background-color: gold;
+}
+
+.box-e {
+   height: 150px;
+   width: 200px;
+   background-color: gold;
+} */
+
+/* .box-f {
+   height: 150px;
+   width: 200px;
+   background-color: gold;
+}
+
+.box-g {
+   height: 150px;
+   width: 200px;
+   background-color: gold;
+}
+
+.box-h {
+   height: 150px;
+   width: 200px;
+   background-color: gold;
+}
+
+.box-i {
+   height: 150px;
+   width: 200px;
+   background-color: gold;
+}
+
+.box-j {
+   height: 150px;
+   width: 200px;
+   background-color: gold;
+} */
+
+<!-- <div class="box-a">box-a</div>
+                  <div class="box-b">box-b</div>
+                  <div class="box-c">box-c</div>
+                  <div class="box-d">box-d</div>
+                  <div class="box-e">box-e</div> -->
+
+<!-- <div class="box-f">box-f</div>
+                  <div class="box-g">box-g</div>
+                  <div class="box-h">box-h</div>
+                  <div class="box-i">box-i</div>
+                  <div class="box-j">box-j</div> -->
